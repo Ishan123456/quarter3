@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	color:white;
+	font-size: 40px;
+}
+html{
+	background-color: #16839A;
+}
+h2{
+	color: #BDC3C7;
+	text-align: center;
+	font-size: 32px;
+}
+h3{
+	color:#ECF0F1;
+	font-size: 28px;
+}
+p{
+	color:white;
+	text-align: center;
+}

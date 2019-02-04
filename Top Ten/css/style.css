@@ -1,0 +1,18 @@
+h1{
+	color: red;
+}
+h2{
+	color: blue;
+}
+li{
+	color:orange;
+	font-size: 30px;
+}
+p {
+	color:purple;
+	font-size: 20px; 
+}
+a{
+	color:black;
+	font-size: 18px; 
+}
