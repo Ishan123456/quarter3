@@ -11,7 +11,6 @@ h3{
 	font-size: 30px;
 	margin:10px;
 	color:purple;
-	font-variant: bold;
 }
 img{
 	width:250px;
@@ -21,4 +20,16 @@ img{
 	background-color: orange;
 	margin:0 auto;
 	width: 80%;
+}
+a : link {
+	color: #FF0000 ;
+}
+a : visited  {
+	color: #00FF00 ;
+}
+a : hover {
+	color: #FF00FF ;
+}
+a: active{
+	color: #0000FF ;
 }
