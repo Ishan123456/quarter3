@@ -8,6 +8,30 @@ h3{
 	color:orange;
 	font-size: 30px;
 }
-p{
-	font-variant: bold;
+.herty{
+	color:green;
+	text-align: center;
+}
+.blank{
+	color:purple;
+}
+.wrapper{
+	background-color: red;
+	margin: 0 auto;
+	width:80%;
+}
+img{
+	width:250px;
+	border:15px;
+	border-style: solid;
+	border-color: black;
+}
+.drew{
+	border-color: blue;
+}
+.collins{
+	border-color: green;
+}
+.abbie{
+	border-color: orange;
 }

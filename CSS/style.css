@@ -1,11 +1,12 @@
 h1{
-	color:blue;
+	color:#ff0000;
 	font-size:70px;
 	text-align: center;
 }
 h2{
 	font-size: 40px;
 	text-align: center;
+	padding: 20px;
 }
 h3{
 	font-size: 30px;
@@ -21,15 +22,26 @@ img{
 	margin:0 auto;
 	width: 80%;
 }
-a : link {
-	color: #FF0000 ;
+a{
+	text-align: center;
+	border: 2px black solid;
+	padding: 5px;
+	margin: 5px;
+	background-color: pink;
+	display: block;
 }
-a : visited  {
-	color: #00FF00 ;
+a:link{
+	color: #800000;
 }
-a : hover {
-	color: #FF00FF ;
+a:visited{
+	color: #cc00ff;
 }
-a: active{
-	color: #0000FF ;
+a:hover{
+	color: #00ff00;
+}
+a:active{
+	color: #ffff00;
+}
+footer{
+text-align: center;
 }

@@ -1,0 +1,35 @@
+h1{
+	color:blue;
+	font-size:70px;
+	text-align: center;
+}
+h2{
+	font-size: 40px;
+	text-align: center;
+}
+h3{
+	font-size: 30px;
+	margin:10px;
+	color:purple;
+}
+img{
+	width:250px;
+	border:15px solid black;
+}
+.wrapper{
+	background-color: orange;
+	margin:0 auto;
+	width: 80%;
+}
+a : link {
+	color: #FF0000 ;
+}
+a : visited  {
+	color: #00FF00 ;
+}
+a : hover {
+	color: #FF00FF ;
+}
+a: active{
+	color: #0000FF ;
+}
