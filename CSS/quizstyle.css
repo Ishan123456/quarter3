@@ -19,3 +19,12 @@ p{
 	color:white;
 	text-align: center;
 }
+a{
+	color:black;
+	font-size: 18px; 
+	text-align: left;
+	border: 2px black solid;
+	padding: 3px;
+	margin: 0 auto;
+	background-color: pink;
+}

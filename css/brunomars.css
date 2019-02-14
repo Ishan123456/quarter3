@@ -1,0 +1,49 @@
+h1{
+	color: white;
+	text-align: center;
+	background-color: #0000ff;
+}
+h2{
+	color: white;
+	background-color: #0000ff;
+	text-align: center;
+}
+.cleared{
+	display: flow-root;
+}
+section{
+	background-color: #0000ff;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+h3{
+	color: white;
+}
+img{
+	border: 5px black solid;
+	margin: 40px;
+	width:550px;
+}
+p{
+	color: white;
+}
+.floatl{
+	float: left;
+}
+body{
+	font-size: 30px;
+}
+.floatr{
+	float:right;
+}
+footer{
+	text-align: center;
+	color: white;
+}
+a{
+	text-align: center;
+	border: 2px black solid;
+	padding: 3px;
+	margin: 0 auto;
+	background-color: pink;
+}
